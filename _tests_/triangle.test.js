@@ -16,5 +16,4 @@ describe('Triangle', () => {
     const scalTriangle = new Triangle(4, 5, 7)
     expect(scalTriangle.checkType()).toEqual("scalene triangle");
   });
-
 });
