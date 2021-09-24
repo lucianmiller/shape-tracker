@@ -16,3 +16,4 @@ describe('Rectangle', () => {
   test('should correctly get the area of a rectangle object', () => {
     expect(rectangle.getArea()).toEqual(15);
   });
+});
